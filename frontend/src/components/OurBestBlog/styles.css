@@ -1,0 +1,18 @@
+.blog-img {
+    width: 125px;
+    height: 170px;
+    object-fit: cover;
+  }
+
+  /* div.col-3 {
+    width: 100%;
+    height: 150px;
+  } */
+
+  .rounded-img {
+    border-radius: 20px;
+  }
+  
+  .p .t-color {
+    color: #f57009;
+  }

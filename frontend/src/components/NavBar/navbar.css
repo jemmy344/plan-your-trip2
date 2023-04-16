@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&display=swap');
+
+.logo {
+    color:#f8710b;
+    font-size: larger;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+.navbar-text {
+    color:#c0c1c5 !important;
+    font-size: small;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    
+}
